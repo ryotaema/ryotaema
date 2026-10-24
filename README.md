@@ -36,31 +36,16 @@ class Ryotaema:
 
 <div align="center">
 
-**メイン**<br>
-<img src="https://skillicons.dev/icons?i=py,cpp,ros&theme=dark" />
-<br>
+<img src="https://skillicons.dev/icons?i=py,cpp,ros,c,matlab,pytorch,opencv,docker,ubuntu,aws,git,github&theme=dark&perline=12" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/YOLO-0D1117?style=for-the-badge&logo=yolo&logoColor=A5D8FF&labelColor=0D1117" />
-
-**言語**<br>
-<img src="https://skillicons.dev/icons?i=c,matlab&theme=dark" />
-
-**画像認識・機械学習**<br>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />
-<br>
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=A5D8FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Open3D-0D1117?style=for-the-badge&logoColor=A5D8FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/SAM-0D1117?style=for-the-badge&logo=meta&logoColor=A5D8FF&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/CVAT-0D1117?style=for-the-badge&logoColor=A5D8FF&labelColor=0D1117" />
-
-**ロボット**<br>
 <img src="https://img.shields.io/badge/MoveIt_2-0D1117?style=for-the-badge&logo=ros&logoColor=A5D8FF&labelColor=0D1117" />
-
-**ハードウェア**<br>
 <img src="https://img.shields.io/badge/UR5e-0D1117?style=for-the-badge&logoColor=A5D8FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/RGB--D_カメラ_(RealSense_%2F_ZED_%2F_Vzense)-0D1117?style=for-the-badge&logoColor=A5D8FF&labelColor=0D1117" />
-
-**開発環境**<br>
-<img src="https://skillicons.dev/icons?i=docker,ubuntu,aws,git,github&theme=dark" />
 
 </div>
 

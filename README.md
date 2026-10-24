@@ -7,13 +7,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&duration=2800&pause=900&color=6FA8DC&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81ryotaema+%E3%81%A7%E3%81%99+%F0%9F%91%8B;%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88+%C3%97+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98%E3%81%AB%E8%88%88%E5%91%B3%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99;%E4%B8%BB%E3%81%AB+Python+%2F+C%2B%2B+%2F+YOLO+%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99;%E5%8D%83%E8%91%89%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2+M1" alt="Typing SVG" />
 </a>
 
-<img src="https://img.shields.io/github/stars/ryotaema?affiliations=OWNER&label=Stars&style=flat-square&color=0d1117&logo=github&logoColor=a5d8ff&labelColor=3d6fa8" />
-
 </div>
 
 <!-- ===================== Grass message ===================== -->
 <div align="center">
-  <img src="https://typograssy.deno.dev/api?text=Robotics%20x%20Vision&l1=c6e3fa&l2=a5d8ff&l3=6fa8dc&l4=3d6fa8&comment=ryotaema" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/grass-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/grass-light.svg" />
+  <img src="./assets/grass-light.svg" alt="Robotics x Vision" width="100%" />
+</picture>
 </div>
 
 <br>
@@ -113,15 +115,6 @@ class Ryotaema:
 <br>
 
 ## 🌱 コントリビューション
-
-<!-- GitHub Actions で毎日自動生成されます（.github/workflows/profile-3d.yml） -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-blue-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-blue-light.svg" />
-  <img src="./profile-3d-contrib/profile-blue-light.svg" alt="3D contribution graph" width="100%" />
-</picture>
-</div>
 
 <!-- GitHub Actions で自動生成されます（.github/workflows/snake.yml） -->
 <div align="center">

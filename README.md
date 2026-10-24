@@ -71,10 +71,10 @@ class Ryotaema:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏷️ <a href="https://github.com/ryotaema/auto_annotator">auto_annotator</a></h3>
-      学習済み YOLO で <b>画像のアノテーションを自動生成</b>。手作業のラベル付けを「下書きの修正」に置き換え、データセット作成を効率化。
+      <h3>🗂️ <a href="https://github.com/ryotaema/anno_dataset_tools">anno_dataset_tools</a></h3>
+      アノテーション済み <b>データセットの整理・形式変換・分割を行う GUI ツール</b>。YOLO / Pascal VOC / CVAT の相互変換、動画や ROS 2 bag からの画像切り出し、アノテーションの検証に対応。
       <br><br>
-      <code>YOLO</code> <code>Python</code>
+      <code>Python</code> <code>Tkinter</code> <code>OpenCV</code> <code>ROS 2</code>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/ryotaema/MCL_for_class">MCL_for_class</a></h3>
@@ -84,6 +84,8 @@ class Ryotaema:
     </td>
   </tr>
 </table>
+
+<sub>その他：<a href="https://github.com/ryotaema/mosaic_tool">mosaic_tool</a>（学習データのアノテーション漏れをモザイクで隠す GUI）・<a href="https://github.com/ryotaema/any_depth_with_yolo">any_depth_with_yolo</a>（YOLO × Depth Anything V2 による物体ごとの深度推定）</sub>
 </div>
 
 <br>

@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:3d6fa8,100:a5d8ff&height=220&section=header&text=ryotaema&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Robotics%20%C3%97%20Computer%20Vision&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/ryotaema">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&duration=2800&pause=900&color=6FA8DC&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81ryotaema+%E3%81%A7%E3%81%99+%F0%9F%91%8B;%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88+%C3%97+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98%E3%81%AB%E8%88%88%E5%91%B3%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99;%E4%B8%BB%E3%81%AB+Python+%2F+C%2B%2B+%2F+YOLO+%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99;%E5%8D%83%E8%91%89%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2+M1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=1000&color=6FA8DC&center=true&vCenter=true&width=600&lines=Hello%2C+world%21+I%27m+ryotaema;Detect+%E2%86%92+Locate+%E2%86%92+Act;Code+%C3%97+Circuits+%C3%97+Mechanics;Full-stack+robotics." alt="Typing SVG" />
 </a>
 
 </div>
@@ -24,8 +24,8 @@
 
 ```python
 class Ryotaema:
-    affiliation = "千葉工業大学大学院 林原研究室"
-    grade       = "M1（2028年卒業見込み）"
+    affiliation = "Chiba Institute of Technology (Graduate School) / RDC-Lab"
+    grade       = "M1 (Class of 2028)"
     interests   = ["Robotics", "Computer Vision"]
     main_stack  = ["Python", "C++", "YOLO"]
 ```
@@ -37,9 +37,7 @@ class Ryotaema:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,cpp,ros,c,matlab,pytorch,opencv,docker,ubuntu,aws,git,github&theme=dark&perline=12" />
-
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/YOLO-0D1117?style=for-the-badge&logo=yolo&logoColor=A5D8FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Open3D-0D1117?style=for-the-badge&logoColor=A5D8FF&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/SAM-0D1117?style=for-the-badge&logo=meta&logoColor=A5D8FF&labelColor=0D1117" />
